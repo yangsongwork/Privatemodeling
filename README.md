@@ -1,1 +1,1 @@
-# Private Company Modeling - a Fictitious Company
+# Private Company Valuation - a Fictitious Company
